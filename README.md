@@ -1,6 +1,5 @@
-# python
 
-#Create Project
+
 scrapy startproject tutotial 
 
 cd tutotial
